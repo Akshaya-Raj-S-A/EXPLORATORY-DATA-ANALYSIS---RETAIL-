@@ -1,8 +1,5 @@
-# TSP-GRIP-Data-Science-TASK-3-
-
 # Exploratory Data Analysis - Retail
 
-# (Level - Beginner)
 
 ## PROBLEM STATEMENT
 
@@ -13,9 +10,5 @@
 work to make more profit.
 
 ● What all business problems you can derive by exploring the data?
-
-● You can choose any of the tool of your choice
-
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
 ● Dataset is available here: https://bit.ly/3i4rbWl
